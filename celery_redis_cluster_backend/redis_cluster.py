@@ -237,5 +237,5 @@ if __name__ == '__main__':
     rb = RedisClusterBackend(app=app)
     rb.set('a', 'b1')
 
-    print rb.get('a')
+    print(rb.get('a'))
 
