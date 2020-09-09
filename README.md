@@ -4,7 +4,7 @@
 
 ## Usage
 
-1. pip install -e git+git://github.com/hbasria/celery-redis-cluster-backend.git#egg=celery-redis-cluster-backend
+1. pip install -e git+git://github.com/lengow/celery-redis-cluster-backend.git#egg=celery-redis-cluster-backend
 
 2. Add the following to `celeryconfig.py`.
 
